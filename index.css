@@ -1,0 +1,38 @@
+* {
+  font-size: monospace;
+  background-color: black;
+  color: aqua;
+}
+
+.card {
+  border: 5px solid yellow;
+  padding: 40px;
+  width: 900px;
+  margin: 200px auto;
+  border-radius: 20px;
+}
+
+nav {
+  font-size: large;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  justify-content: space-evenly;
+}
+
+.heading {
+  font-family: sans-serif;
+  color: rgb(4, 197, 4);
+  font-size: 50px;
+}
+
+.listitems {
+  display: flex;
+  flex-direction: column;
+  font-size: 45px;
+}
+
+.logo {
+  height: 75px;
+  width: 75px;
+}
